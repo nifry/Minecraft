@@ -1,0 +1,33 @@
+h1 { font-size: 60px; 
+    color: rgb(17, 124, 17);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+li{ font-size: 20px;
+    color: rgb(180, 134, 34);
+    text-align: center;
+
+
+
+}
+
+small{
+    text-align: center;
+    color: black;
+}
+
+hr{ width: 50%;
+    height: 10px;
+    background-color: rgb(110, 67, 9);
+}
+
+p{ width: 50%;
+    margin: auto;
+}
+
+
